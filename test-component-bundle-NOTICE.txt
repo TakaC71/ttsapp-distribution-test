@@ -1,0 +1,8 @@
+TTSApp WU-DIST-04B Network Delivery mechanism test fixture.
+
+This is a completely synthetic dummy file used only to verify the
+HTTPS download -> partial/retry -> SHA256 verification -> cache ->
+deployment handoff mechanism over a real public internet HTTPS path.
+
+It contains NO real audio, NO API keys, NO personal data, and NO
+secrets of any kind. It is not a real Irodori/OpenVoice runtime bundle.
